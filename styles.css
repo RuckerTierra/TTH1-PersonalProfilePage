@@ -55,7 +55,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #ffffb1
+  color: #ffffb1;
 }
 
 header {
@@ -162,7 +162,7 @@ a.social {
 }
 
 a.social:hover {
-  color: #6633ff;
+  color: #ffffb1;
   opacity: 1;
 }
 
